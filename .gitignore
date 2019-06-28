@@ -39,3 +39,5 @@ rsconnect/
 # add
 *.csv
 /src/con_db.R
+memo.txt
+*.Rproj
